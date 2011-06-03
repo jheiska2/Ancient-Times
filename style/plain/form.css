@@ -1,0 +1,26 @@
+/* =====================================================================================
+ *
+ * 
+ * All definitions related to forms and inputs 
+ *
+ * 
+ */
+ 
+
+/* -------------------------------------------------------------------------------------
+/* Login */
+
+fieldset.loginform {}
+
+fieldset.loginform input.account,
+fieldset.loginform input.password {
+	font-family: Verdana, Sans-serif;
+	width: 16em;
+	font-size: 1.5em;
+}
+
+fieldset.loginform button {
+	font-family: Verdana, Sans-serif;
+	width: 10em;	
+	font-size: 1.5em;
+}

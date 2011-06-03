@@ -1,0 +1,41 @@
+/* =====================================================================================
+ *
+ * 
+ * All definitions related to settings menu bar, 
+ * except fonts, colors and background images. 
+ *
+ * 
+ */
+ 
+
+/* -------------------------------------------------------------------------------------
+/* Settings menu bar */
+
+div#settingsbar {
+	clear: both;
+	padding-top: 3px;
+	font: 1em/2 Verdana, Sans-serif;
+}
+div#settingsbar ul {
+	float: left;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+div#settingsbar li {
+	display: inline;
+	margin: 0;
+	padding: 0;
+}
+div#settingsbar a {
+	display: block;
+	float: left;
+	padding: 0 12px;
+}
+div#settingsbar a:hover,
+div#settingsbar a:focus {}
+div#settingsbar .sel a { text-decoration: none; }
+div#settingsbar .sel a:hover,
+div#settingsbar .sel a:focus {}
+

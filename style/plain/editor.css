@@ -1,0 +1,40 @@
+/* =====================================================================================
+ *
+ * 
+ * All definitions related to WYSIWYG JavaScript textarea editor and related forms. 
+ *
+ * 
+ */
+ 
+/* -------------------------------------------------------------------------------------
+/* Article, generic editor settings */
+
+fieldset.article {
+	border: none;
+}
+
+fieldset.article input.title {
+	font-family: Verdana, Sans-serif;
+	font-size: 1.5em;
+	width: 400px;
+}
+
+fieldset.article textarea.size98percentx300 {
+	font-family: Verdana, Sans-serif;
+	font-size: 1em;
+	width: 98%;
+	height: 300px;
+}
+
+fieldset.article p.notice {
+	font-size: x-small;
+	font-style: italic;
+}
+
+fieldset.article button {
+	font-family: Verdana, Sans-serif;
+	font-size: 1.3em;
+}
+
+
+

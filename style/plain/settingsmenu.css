@@ -1,0 +1,79 @@
+/* =====================================================================================
+ *
+ * 
+ * All definitions related to settings menu bar, 
+ * except fonts, colors and background images. 
+ *
+ * 
+ */
+ 
+ 
+/* -------------------------------------------------------------------------------------
+/* Settings */
+
+div#settings {
+	margin: 0;
+	padding: 0;
+	padding-bottom: 1px;
+	background:     #B0B0B0 ;
+}
+div#settings div#scard {
+	margin-left: 4px;
+}
+div#settings div#swrap {
+	margin-left: 4px;
+	margin-right: 4px;
+	margin-bottom: 4px;
+	background:     #B0B0B0 ;
+	border: 4px solid #B0B0B0 ; 
+}
+
+div#settings div.sblock {
+	width: 100%;
+	margin-bottom: 4px;
+	background: transparent;
+	border: 1px solid transparent;
+}
+div#settings div.stitle {
+	float: left;
+	width: 100px;
+	background: transparent;
+	border-bottom: 1px solid     #B0B0B0 ;
+}
+div#settings div.scontent {
+	background: transparent;
+	border-bottom: 1px solid  #B0B0B0 ;
+}
+
+/* -------------------------------------------------------------------------------------
+/* Settings menu bar */
+
+div#smenu {
+	margin-left: 4px;
+	font: 1em/2 Verdana, Sans-serif;
+	height: 2em;
+}
+div#smenu ul {
+	float: left;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+div#smenu li {
+	display: inline;
+	margin: 0;
+	padding: 0;
+}
+div#smenu a {
+	display: block;
+	float: left;
+	padding: 0 6px;
+	text-decoration: none;
+}
+div#smenu a:hover,
+div#smenu a:focus {}
+div#smenu .sel a { background:     #B0B0B0  }
+div#smenu .sel a:hover,
+div#smenu .sel a:focus {}
+
