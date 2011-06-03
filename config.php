@@ -1,10 +1,10 @@
 <?php
 // config.php
 // Setting for the database connection
-    define('DB_HOST', 'blu-ray.student.bth.se');
-    define('DB_USER',  'jahb08' );
-    define('DB_PASSWORD',  '#dp8mJFM' );
-    define('DB_DATABASE', 'jahb08'); 
+    define('DB_HOST', '********');
+    define('DB_USER',  '*******' );
+    define('DB_PASSWORD',  '*******' );
+    define('DB_DATABASE', '*******'); 
 
 // Table/view prefix in front of table names and views
 define('DB_PREFIX', 'pe_');
