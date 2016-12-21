@@ -10,9 +10,6 @@
 //
 // This minimizes code in the pagecontroller that have flexible definition of
 // JavaScript editors replacing a <textarea> tag.
-//
-// Author: Mikael Roos, mos@bth.se
-//
 
 
 class CWYSIWYGEditorFactory {
