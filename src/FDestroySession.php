@@ -5,8 +5,6 @@
 //
 // Description: Destroys the current session.
 //
-// Author: Mikael Roos, mos@bth.se
-//
 
 // -------------------------------------------------------------------------------------------
 //
