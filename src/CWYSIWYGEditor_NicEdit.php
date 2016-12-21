@@ -8,8 +8,6 @@
 // Support for WYSIWYG JavaScript editor NicEdit.
 // http://nicedit.com/
 //
-// Author: Mikael Roos, mos@bth.se
-//
 
 
 class CWYSIWYGEditor_NicEdit extends CWYSIWYGEditor {
