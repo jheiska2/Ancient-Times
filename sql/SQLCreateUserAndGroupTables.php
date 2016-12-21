@@ -6,10 +6,6 @@
 // SQL statements to creta the tables for the User and group tables.
 //
 // WARNING: Do not forget to check input variables for SQL injections. 
-//
-// Author: Mikael Roos
-//
-
 
 // Get the tablenames
 $tUser 				= DBT_User;
