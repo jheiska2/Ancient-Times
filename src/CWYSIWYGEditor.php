@@ -16,9 +16,7 @@
 // I can mix abstract and no-abstract methods and I did not find a true abstract method.
 // I still want to have the class as abstract, I might change it when I see how the classes
 // evolve.
-//
-// Author: Mikael Roos, mos@bth.se
-//
+
 
 abstract class CWYSIWYGEditor {
 
