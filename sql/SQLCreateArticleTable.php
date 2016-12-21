@@ -6,11 +6,6 @@
 // SQL statements to create the tables for the Article tables.
 //
 // WARNING: Do not forget to check input variables for SQL injections.
-//
-// Author: Mikael Roos
-//
-
-
 // Get the tablenames
 $tArticle = DBT_Article;
 $tTopic = DBT_Topic;
