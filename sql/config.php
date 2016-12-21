@@ -5,13 +5,7 @@
 //
 // Config-file for database and SQL related issues. All SQL-statements are usually stored in this
 // directory (TP_SQLPATH). This files contains global definitions for table names and so.
-//
-// Author: Mikael Roos, mos@bth.se
-//
 
-
-// -------------------------------------------------------------------------------------------
-//
 // Define the names for the database (tables, views, procedures, functions, triggers)
 //
 define('DBT_User',                 DB_PREFIX . 'User');
