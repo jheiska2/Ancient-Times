@@ -7,9 +7,6 @@
 //
 // WARNING: Do not forget to check input variables for SQL injections. 
 //
-// Author: Mikael Roos
-//
-
 
 // Prevent SQL injections
 global $user, $password;
