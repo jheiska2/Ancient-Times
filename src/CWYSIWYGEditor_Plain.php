@@ -8,8 +8,6 @@
 // A plain textarea editor, just for showing how to implement the abstract base class 
 // for WYSIWYGEditor.
 //
-// Author: Mikael Roos, mos@bth.se
-//
 
 
 class CWYSIWYGEditor_Plain extends CWYSIWYGEditor {
